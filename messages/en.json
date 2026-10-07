@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "services": "Services",
+    "news": "News",
+    "tutorials": "Tutorials",
+    "login": "Log in",
+    "register": "Register",
+    "about": "About",
+    "inbox": "Inbox",
+    "logout": "Log out",
+    "desk": "Desk"
+  },
+  "footer": {
+    "gov": "Certificates and challans come from the government department, not from onlineexpert.in.",
+    "log": "A cyber cafe still keeps its own visitor log under the IT Act.",
+    "aadhaar": "Aadhaar enrolment and update happen only at an authorised Aadhaar Seva Kendra. This site does not collect Aadhaar numbers or biometrics."
+  },
+  "meta": {
+    "title": "onlineexpert.in — shop desk for West Bengal",
+    "description": "Cyber cafes and online shops in West Bengal collect documents. A pincode-matched expert finishes paid work on the official portal."
+  }
+}
