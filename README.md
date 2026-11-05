@@ -16,7 +16,7 @@ Open `http://localhost:3001`.
 
 | Variable | Purpose |
 |---|---|
-| `API_URL` | Backend base URL. Local default is `http://127.0.0.1:8000`. |
+| `API_URL` | Backend base URL: `https://api-onlineexpert.teccadon.com`. |
 | `AUTH_SECRET` | Must match the backend and the shop frontend. |
 | `SHOP_URL` | Shop site origin. Non-admin sessions are sent here. |
 
